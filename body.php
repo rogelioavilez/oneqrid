@@ -4,7 +4,7 @@
     
     <section>
         <article>
-            <h1>Article 100</h1>
+            <h1>Article 1</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero nisi veritatis quibusdam deserunt atque unde voluptatum dolorum suscipit amet consequatur, voluptates aut. Dolorum in corporis aspernatur voluptate voluptas est facilis.</p>
         </article>
 
