@@ -1,6 +1,6 @@
 <body>
 
-    <?php include ("includes/menuBar.php");?>
+    <?php include ("includes/jumbotron.php");?>
     
     <section>
         <article>
@@ -13,4 +13,5 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur facilis reiciendis sed aut maiores ullam. Vel corporis illo alias provident aspernatur, dolores reiciendis delectus placeat? Dolorum unde itaque repudiandae illo!</p>
         </article>
     </section>
+    
 </body>
