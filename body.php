@@ -1,5 +1,5 @@
 <body>
 
-    <?php include ("includes/jumbotron.php");?>
-    
+    <?php include ("includes/main.php");?>
+
 </body>
