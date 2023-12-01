@@ -20,12 +20,12 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
         
             <!-- Favicons -->
-        <link rel="apple-touch-icon" href="jumboFiles/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-        <link rel="icon" href="jumboFiles/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-        <link rel="icon" href="jumboFiles/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
-        <link rel="manifest" href="jumboFiles/assets/img/favicons/manifest.json">
-        <link rel="mask-icon" href="jumboFiles/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
-        <link rel="icon" href="jumboFiles/assets/img/favicons/favicon.ico">
+        <link rel="apple-touch-icon" href="includes/jumboFiles/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+        <link rel="icon" href="includes/jumboFiles/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+        <link rel="icon" href="includes/jumboFiles/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+        <link rel="manifest" href="includes/jumboFiles/assets/img/favicons/manifest.json">
+        <link rel="mask-icon" href="includes/jumboFiles/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+        <link rel="icon" href="includes/jumboFiles/assets/img/favicons/favicon.ico">
         <meta name="theme-color" content="#712cf9">
 
         <title>OneQRiD Main Page</title>
